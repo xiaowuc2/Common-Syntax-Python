@@ -6,3 +6,4 @@ name = "sam"
 age = 3
 print(f"{name} is {age} years old")
 >same is 3 years old
+
